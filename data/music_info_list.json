@@ -1,0 +1,26 @@
+[
+    {
+        "filename": "haibian.wav",
+        "title": null,
+        "artist": "\u65af\u65af\u4e0e\u5e06",
+        "album": null,
+        "duration": 133.53043083900226,
+        "network": "local"
+    },
+    {
+        "filename": "summer cozy rock.mp3",
+        "title": null,
+        "artist": null,
+        "album": null,
+        "duration": 264.003252795371,
+        "network": "local"
+    },
+    {
+        "filename": "\u82b1\u306b\u4ea1\u970a.flac",
+        "title": "\u82b1\u306b\u4ea1\u970a",
+        "artist": "\u30e8\u30eb\u30b7\u30ab",
+        "album": "\u76d7\u4f5c",
+        "duration": 241.22666666666666,
+        "network": "local"
+    }
+]
